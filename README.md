@@ -420,4 +420,3 @@ If you found this project useful or interesting, consider giving the repository 
 ### 🎬 Built with React + Vite + TMDB API
 
 ```
-```
