@@ -8,27 +8,7 @@ The project focuses on learning and applying **React components, state managemen
 
 ## Live Demo
 
-🔗 **Live Demo:** [Add your deployed URL here]
-
----
-
-## Preview
-
-> Add screenshots or GIFs of your application here.
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                    🎬 Movie App                     │
-│                                                     │
-│       🔍 Search for movies...                       │
-│                                                     │
-│   ┌──────────┐  ┌──────────┐  ┌──────────┐          │
-│   │  Movie   │  │  Movie   │  │  Movie   │          │
-│   │  Poster  │  │  Poster  │  │  Poster  │          │
-│   │          │  │          │  │          │          │
-│   └──────────┘  └──────────┘  └──────────┘          │
-└─────────────────────────────────────────────────────┘
-```
+🔗 **Live Demo:** [Visit Site](https://anupama-omiru-dasanayake.github.io/movie-search-app/)
 
 ---
 
