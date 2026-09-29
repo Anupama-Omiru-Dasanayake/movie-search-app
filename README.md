@@ -1,4 +1,4 @@
-# 🎬 TMDB Movie Search App
+# TMDB Movie Search App
 
 A modern movie search web application built with **React** and **Vite**, using the **TMDB (The Movie Database) API** to search and display movie information.
 
@@ -6,13 +6,13 @@ The project focuses on learning and applying **React components, state managemen
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🔗 **Live Demo:** [Add your deployed URL here]
 
 ---
 
-## 📸 Preview
+## Preview
 
 > Add screenshots or GIFs of your application here.
 
@@ -32,23 +32,23 @@ The project focuses on learning and applying **React components, state managemen
 
 ---
 
-## ✨ Features
+## Features
 
-* 🔎 Search for movies using the TMDB API
-* 🎬 Display movie search results dynamically
-* 🖼️ Display movie posters
-* ⭐ Display movie information such as title and rating
-* ⚡ Fast development and production builds with Vite
-* 🧩 Reusable React components
-* 🔄 Fetch data from an external REST API
-* 🌐 Responsive user interface
-* 🔐 API key stored securely using environment variables
-* ⏳ Loading and API request handling
-* ❌ Error handling for failed API requests
+* Search for movies using the TMDB API
+* Display movie search results dynamically
+* Display movie posters
+* Display movie information such as title and rating
+* Fast development and production builds with Vite
+* Reusable React components
+* Fetch data from an external REST API
+* Responsive user interface
+* API key stored securely using environment variables
+* Loading and API request handling
+* Error handling for failed API requests
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 | Technology             | Purpose                                |
 | ---------------------- | -------------------------------------- |
@@ -62,7 +62,7 @@ The project focuses on learning and applying **React components, state managemen
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```text
 movie-search-app/
@@ -92,7 +92,7 @@ movie-search-app/
 
 ---
 
-## 🔑 TMDB API Setup
+## TMDB API Setup
 
 This project uses the **TMDB API** to retrieve movie information.
 
@@ -132,7 +132,7 @@ Add the following to `.gitignore`:
 
 ---
 
-## 🔌 API Configuration
+## API Configuration
 
 The application communicates with the TMDB API using HTTP requests.
 
@@ -154,7 +154,7 @@ The application can then request movie data from TMDB and use the returned JSON 
 
 ---
 
-## ⚛️ React Concepts Used
+## React Concepts Used
 
 This project was created to practice several important React concepts.
 
@@ -226,7 +226,7 @@ const data = await response.json();
 
 ---
 
-## 🔄 How the Application Works
+## How the Application Works
 
 The basic application flow is:
 
@@ -260,7 +260,7 @@ Movie Results displayed
 
 ---
 
-## 🧩 Example Movie Data
+## Example Movie Data
 
 TMDB returns movie information in JSON format.
 
@@ -290,7 +290,7 @@ movie.release_date
 
 ---
 
-## 💻 Installation
+## Installation
 
 ### 1. Clone the Repository
 
@@ -328,7 +328,7 @@ The application will be available at the local development URL shown by Vite.
 
 ---
 
-## 📜 Available Scripts
+## Available Scripts
 
 | Command           | Description                          |
 | ----------------- | ------------------------------------ |
@@ -339,7 +339,7 @@ The application will be available at the local development URL shown by Vite.
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 Through this project, I practiced:
 
@@ -364,7 +364,7 @@ Through this project, I practiced:
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 Possible improvements for future versions include:
 
@@ -387,7 +387,7 @@ Possible improvements for future versions include:
 
 ---
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This project uses the **TMDB API** to retrieve movie-related information.
 
@@ -397,7 +397,7 @@ Movie data, images, ratings, and other information are provided by **The Movie D
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Anupama Omiru Dasanayake**
 
