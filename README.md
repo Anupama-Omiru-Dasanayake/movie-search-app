@@ -386,7 +386,7 @@ University of Westminster
 
 ### 🌐 Connect With Me
 
-* GitHub: [https://github.com/Anupama-Omiru-Dasanayake]
-* LinkedIn: [https://linkedin.com/in/anupama-omiru-dasanayake]
+* GitHub: [GitHub](https://github.com/Anupama-Omiru-Dasanayake)
+* LinkedIn: [LinkedIn](https://linkedin.com/in/anupama-omiru-dasanayake)
 
 ---
