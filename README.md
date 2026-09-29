@@ -410,13 +410,3 @@ University of Westminster
 * LinkedIn: [https://linkedin.com/in/anupama-omiru-dasanayake]
 
 ---
-
-## ⭐ Support
-
-If you found this project useful or interesting, consider giving the repository a ⭐ on GitHub!
-
----
-
-### 🎬 Built with React + Vite + TMDB API
-
-```
